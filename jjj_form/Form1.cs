@@ -62,5 +62,9 @@ namespace jjj_form
             }
         }
 
+        private void chb02_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
     }

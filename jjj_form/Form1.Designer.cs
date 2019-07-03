@@ -132,6 +132,7 @@
             this.chb02.TabIndex = 1;
             this.chb02.Text = "농구";
             this.chb02.UseVisualStyleBackColor = true;
+            this.chb02.CheckedChanged += new System.EventHandler(this.chb02_CheckedChanged);
             // 
             // chb01
             // 
